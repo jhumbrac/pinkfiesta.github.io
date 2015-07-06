@@ -1,2 +1,5 @@
-body{background-color: #FFFACD}
-h1 {color: #F08080}
+body{
+  background-color: #FFFACD;
+  color: #F08080;
+  font-size:16px;
+}
